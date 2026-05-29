@@ -38,6 +38,7 @@ Start Apache and MySQL from XAMPP
 Open browser and go to:
 http://localhost/your-project-folder/
 Import database file into phpMyAdmin (if included)
+
 📌 Project Purpose
 
 This project was developed to understand real-world full-stack web application flow including frontend design, backend logic, and database operations.
@@ -48,6 +49,7 @@ Admin dashboard for bookings
 Room availability management
 Payment gateway integration
 Responsive mobile-first UI
+
 🔗 Project Status
 
 Completed (Local Deployment)
