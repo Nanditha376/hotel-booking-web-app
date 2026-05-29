@@ -33,7 +33,7 @@ Install XAMPP
 Move project folder to htdocs
 Start Apache and MySQL from XAMPP
 Open browser and go to:
-http://localhost/your-project-folder/
+http://localhost/hotel-booking/
 Import database file into phpMyAdmin (if included)
 
 📌 Project Purpose
