@@ -23,9 +23,6 @@ Local server deployment using XAMPP
 Database handled using MySQL
 Tables managed via phpMyAdmin
 Structured storage for booking records
-📸 Screenshots
-
-Add your screenshots here (VERY IMPORTANT)
 
 Booking Form UI
 Submitted Data Processing
